@@ -1,7 +1,15 @@
-.header{
-    padding: 40px 0;
-    background-color: crimson;
+.header {
+  padding: 40px 0;
+  background-color: crimson;
 }
 .hero {
     background-color: brown;
 }
+.footer {
+  background-color: blueviolet;
+}
+
+.footer-text {
+  font-size: 16px;
+}
+
